@@ -1,0 +1,41 @@
+*{
+    background-color: rgb(255, 255, 255);
+    margin: 0.5rem;
+}
+
+/* ---------------HEADER----------- */
+.header{    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+}
+
+.pseudo-titulo{
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+
+}
+/* ----------------SECTION 1------------- */
+
+.section-1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-perfil{
+    width: 25rem;
+}
+
+.title-presentacion{
+    
+}
+
+.texto-presentacion{
+    width: 30rem;
+}
