@@ -12,8 +12,12 @@
     box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
-.pseudo-titulo{
+ul{
     
+ text-decoration: none;
+}
+.pseudo-titulo h2{
+    color: rgb(63, 63, 63);    
 }
 
 .navbar{
@@ -27,15 +31,46 @@
     display: flex;
     justify-content: space-around;
 }
+.section-1 p{
+    margin-top: 5rem;
+}
 
 .img-perfil{
     width: 25rem;
 }
 
-.title-presentacion{
-    
+/* --------SECTION 2-------------- */
+
+.section-2{
+    padding: 4rem;
+    width:100%;
+    height: 7rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.title-presentacion h2{
+    color: rgb(64, 58, 58);
 }
 
 .texto-presentacion{
     width: 30rem;
+}
+
+.section-2 h3{
+    color: dimgrey;
+    font-size: 2rem;
+}
+
+
+
+/* ------------SECTION 3---------------- */
+
+.section-3{
+    display: flex;
+    justify-content: ;
+    padding: 4rem;
+    width:100%;
+    height: 7rem;
+
 }
